@@ -12,12 +12,17 @@
  * INCLUDE
  **************************************************************************************/
 
-#include "boost/units/io.hpp"
 #include "boost/units/unit.hpp"
 #include "boost/units/quantity.hpp"
 
 #include "boost/units/systems/si.hpp"
-#include "boost/units/systems/si/io.hpp"
+
+/**************************************************************************************
+ * NAMESPACE
+ **************************************************************************************/
+
+namespace drone
+{
 
 /**************************************************************************************
  * TYPEDEF
@@ -152,5 +157,11 @@ typedef boost::units::quantity<boost::units::si::resistivity> Resistivity;
 typedef boost::units::quantity<boost::units::si::velocity> Velocity;
 using boost::units::si::meter_per_second;
 using boost::units::si::meters_per_second;
+
+/**************************************************************************************
+ * NAMESPACE
+ **************************************************************************************/
+
+} /* drone */
 
 #endif /* ARDUINO_BOOST_UNITS_H_ */

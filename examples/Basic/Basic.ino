@@ -8,6 +8,7 @@
  **************************************************************************************/
 
 #include "Arduino-BoostUnits.h"
+using namespace drone;
 
 #define DBG_ENABLE_INFO
 #include <ArduinoDebug.hpp>
