@@ -16,7 +16,7 @@ This library works for
 ## Example
 ```C++
 #include "Arduino-BoostUnits.h"
-using namespace drone;
+using namespace drone::unit;
 
 #define DBG_ENABLE_INFO
 #include <ArduinoDebug.hpp>

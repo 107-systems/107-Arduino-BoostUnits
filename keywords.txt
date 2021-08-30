@@ -6,6 +6,8 @@
 # Class (KEYWORD1)
 #######################################
 
+drone	KEYWORD1
+unit	KEYWORD1
 AbsorbedDose	KEYWORD1
 AngularVelocity	KEYWORD1
 Conductance	KEYWORD1
