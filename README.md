@@ -1,6 +1,13 @@
 <a href="https://107-systems.org/"><img align="right" src="https://raw.githubusercontent.com/107-systems/.github/main/logo/107-systems.png" width="15%"></a>
 `107-Arduino-BoostUnits`
 ====================
+[![Arduino Library Badge](https://www.ardu-badge.com/badge/107-Arduino-BoostUnits.svg?)](https://www.ardu-badge.com/107-Arduino-BoostUnits)
+[![Compile Examples](https://github.com/107-systems/107-Arduino-BoostUnits/workflows/Compile%20Examples/badge.svg)](https://github.com/107-systems/107-Arduino-BoostUnits/actions?workflow=Compile+Examples)
+[![Arduino Lint](https://github.com/107-systems/107-Arduino-BoostUnits/workflows/Arduino%20Lint/badge.svg)](https://github.com/107-systems/107-Arduino-BoostUnits/actions?workflow=Arduino+Lint)
+[![keywords.txt Checks](https://github.com/107-systems/107-Arduino-BoostUnits/workflows/Extra%20Library%20Checks/badge.svg)](https://github.com/107-systems/107-Arduino-BoostUnits/actions?workflow=Extra+Library+Checks)
+[![General Formatting Checks](https://github.com/107-systems/107-Arduino-BoostUnits/workflows/General%20Formatting%20Checks/badge.svg)](https://github.com/107-systems/107-Arduino-BoostUnits/actions?workflow=General+Formatting+Checks)
+[![Spell Check](https://github.com/107-systems/107-Arduino-BoostUnits/workflows/Spell%20Check/badge.svg)](https://github.com/107-systems/107-Arduino-BoostUnits/actions?workflow=Spell+Check)
+
 <p align="center">
   <a href="https://github.com/107-systems/107-Arduino-DroneCore"><img src="https://github.com/107-systems/.github/raw/main/logo/viper.jpg" width="40%"></a>
 </p>
