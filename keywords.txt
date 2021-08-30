@@ -95,7 +95,7 @@ meter_per_second_squared	LITERAL1
 meters_per_second_squared	LITERAL1
 square_meter	LITERAL1
 square_meters	LITERAL1
-joule	LITERAL1  
+joule	LITERAL1
 joules	LITERAL1
 kilogram_per_cubic_meter	LITERAL1
 kilograms_per_cubic_meter	LITERAL1
