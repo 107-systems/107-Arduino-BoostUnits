@@ -65,7 +65,7 @@ using boost::units::si::square_meter;
 using boost::units::si::square_meters;
 typedef boost::units::quantity<boost::units::si::conductivity> Conductivity;
 typedef boost::units::quantity<boost::units::si::energy> Energy;
-using boost::units::si::joule;  
+using boost::units::si::joule;
 using boost::units::si::joules;
 typedef boost::units::quantity<boost::units::si::kinematic_viscosity> KinematicViscosity;
 typedef boost::units::quantity<boost::units::si::mass_density> MassDensity;
