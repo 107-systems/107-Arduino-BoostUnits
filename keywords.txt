@@ -1,0 +1,149 @@
+#######################################
+# Syntax Coloring Map for 107-Arduino-BoostUnits
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+AbsorbedDose	KEYWORD1
+AngularVelocity	KEYWORD1
+Conductance	KEYWORD1
+ElectricPotential	KEYWORD1
+MagneticFlux	KEYWORD1
+PlaneAngle	KEYWORD1
+SolidAngle	KEYWORD1
+Volume	KEYWORD1
+Acceleration	KEYWORD1
+Area	KEYWORD1
+Conductivity	KEYWORD1
+Energy	KEYWORD1
+KinematicViscosity	KEYWORD1
+MassDensity	KEYWORD1
+Power	KEYWORD1
+SurfaceDensity	KEYWORD1
+Wavenumber	KEYWORD1
+Action	KEYWORD1
+Current	KEYWORD1
+Force	KEYWORD1
+Length	KEYWORD1
+Mass	KEYWORD1
+SurfaceTension	KEYWORD1
+Activity	KEYWORD1
+Capacitance	KEYWORD1
+Dimensionless	KEYWORD1
+Frequency	KEYWORD1
+LuminousFlux	KEYWORD1
+MomentOfInertia	KEYWORD1
+Pressure	KEYWORD1
+Temperature	KEYWORD1
+Amount	KEYWORD1
+CatalyticActivity	KEYWORD1
+DoseEquivalent	KEYWORD1
+Illuminance	KEYWORD1
+LuminousIntensity	KEYWORD1
+Momentum	KEYWORD1
+Reluctance	KEYWORD1
+Time	KEYWORD1
+AngularAcceleration	KEYWORD1
+DynamicViscosity	KEYWORD1
+Impedance	KEYWORD1
+MagneticFieldIntensity	KEYWORD1
+Permeability	KEYWORD1
+Resistance	KEYWORD1
+Torque	KEYWORD1
+AngularMomentum	KEYWORD1
+ElectricCharge	KEYWORD1
+Inductance	KEYWORD1
+MagneticFluxDensity	KEYWORD1
+Permittivity	KEYWORD1
+Resistivity	KEYWORD1
+Velocity	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+value	KEYWORD2
+fromValue	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+gray	LITERAL1
+grays	LITERAL1
+radian_per_second	LITERAL1
+radians_per_second	LITERAL1
+siemen	LITERAL1
+siemens	LITERAL1
+mho	LITERAL1
+mhos	LITERAL1
+volt	LITERAL1
+volts	LITERAL1
+weber	LITERAL1
+webers	LITERAL1
+radian	LITERAL1
+radians	LITERAL1
+steradian	LITERAL1
+steradians	LITERAL1
+cubic_meter	LITERAL1
+cubic_meters	LITERAL1
+meter_per_second_squared	LITERAL1
+meters_per_second_squared	LITERAL1
+square_meter	LITERAL1
+square_meters	LITERAL1
+joule	LITERAL1  
+joules	LITERAL1
+kilogram_per_cubic_meter	LITERAL1
+kilograms_per_cubic_meter	LITERAL1
+watt	LITERAL1
+watts	LITERAL1
+kilogram_per_square_meter	LITERAL1
+kilograms_per_square_meter	LITERAL1
+reciprocal_meter	LITERAL1
+reciprocal_meters	LITERAL1
+ampere	LITERAL1
+amperes	LITERAL1
+newton	LITERAL1
+newtons	LITERAL1
+meter	LITERAL1
+meters	LITERAL1
+kilogram	LITERAL1
+kilograms	LITERAL1
+newton_per_meter	LITERAL1
+newtons_per_meter	LITERAL1
+becquerel	LITERAL1
+becquerels	LITERAL1
+farad	LITERAL1
+farads	LITERAL1
+hertz	LITERAL1
+lumen	LITERAL1
+lumens	LITERAL1
+pascal	LITERAL1
+pascals	LITERAL1
+kelvin	LITERAL1
+kelvins	LITERAL1
+mole	LITERAL1
+moles	LITERAL1
+katal	LITERAL1
+katals	LITERAL1
+sievert	LITERAL1
+sieverts	LITERAL1
+lux	LITERAL1
+candela	LITERAL1
+candelas	LITERAL1
+second	LITERAL1
+seconds	LITERAL1
+ohm	LITERAL1
+ohms	LITERAL1
+newton_meter	LITERAL1
+newton_meters	LITERAL1
+coulomb	LITERAL1
+coulombs	LITERAL1
+henry	LITERAL1
+henrys	LITERAL1
+tesla	LITERAL1
+teslas	LITERAL1
+meter_per_second	LITERAL1
+meters_per_second	LITERAL1
