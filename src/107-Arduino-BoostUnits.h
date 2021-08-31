@@ -5,8 +5,8 @@
  * Contributors: https://github.com/107-systems/107-Arduino-BoostUnits/graphs/contributors.
  */
 
-#ifndef ARDUINO_BOOST_UNITS_H_
-#define ARDUINO_BOOST_UNITS_H_
+#ifndef _107_ARDUINO_BOOST_UNITS_H_
+#define _107_ARDUINO_BOOST_UNITS_H_
 
 /**************************************************************************************
  * INCLUDE
@@ -168,4 +168,4 @@ using boost::units::si::meters_per_second;
 } /* unit */
 } /* drone */
 
-#endif /* ARDUINO_BOOST_UNITS_H_ */
+#endif /* _107_ARDUINO_BOOST_UNITS_H_ */
