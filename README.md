@@ -26,7 +26,7 @@ This library works for
 using namespace drone::unit;
 
 #define DBG_ENABLE_INFO
-#include <ArduinoDebug.hpp>
+#include <107-Arduino-Debug.hpp>
 /* ... */
 DEBUG_INSTANCE(80, Serial);
 /* ... */
